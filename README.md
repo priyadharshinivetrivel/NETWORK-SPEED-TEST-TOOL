@@ -55,4 +55,5 @@ Running the Script:
 python speed_test.py
 This will execute the test and display a real-time performance graph.
 
-
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/22933560-b5c0-43ea-85fd-17c1bd94161a)
